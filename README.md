@@ -2,10 +2,13 @@
 
 ## Using Open Weather Map (OWM API) 
 
-### Default city is set to waikato 
+### Default city is set to Auckland, New Zealand  
 
 # Live Demo
 
-### Click the below link
+Click the below link
 
-# https://ragavanrajan.github.io/8githubfinder/
+https://ragavanrajan.github.io/weatherapp/
+
+
+Any issues please email me : ragavanrajan@outlook.com
